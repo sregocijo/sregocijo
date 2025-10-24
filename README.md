@@ -16,5 +16,7 @@ Systems engineer, founder, and operational strategist. I lead customer engineeri
 - B2C app development and marketing
 - Cloud architecture for multi-tenant SaaS in Industrial Wastewater
 
+🧪 Featured repos:
+- 'simple-dmaic' : Simple DMAIC project deck preparation with agent assist
 
 📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/saraperrin)
